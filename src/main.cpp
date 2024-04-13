@@ -18,13 +18,9 @@ int main()
     fast_cin();
     freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    int n;
-    cin >> n;
-    if(n % 2)
-        cout << n;
-    else
-        cout << n << "is even";
+    int x;
+    cin >> x;
+    cout << x / 2;
     
-
     return 0;
 }
