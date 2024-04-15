@@ -19,6 +19,7 @@ int main()
     freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
     cout << "modified second time";
+    cout << endl << "hehe";
     
     return 0;
 }
