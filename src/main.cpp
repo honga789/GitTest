@@ -20,11 +20,7 @@ int main()
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
     int x;
     cin >> x;
-<<<<<<< HEAD
-    cout << x / 3;
-=======
     cout << x / 4;
->>>>>>> changeXDiv4
     
     return 0;
 }
