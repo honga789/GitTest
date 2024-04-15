@@ -15,6 +15,7 @@ typedef vector<ll> vll;
 
 bool tmp()
 {
+    return true;
     return false;
 }
 
