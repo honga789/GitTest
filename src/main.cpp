@@ -20,7 +20,7 @@ int main()
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
     int x;
     cin >> x;
-    cout << x / 2;
+    cout << x / 3;
     
     return 0;
 }
