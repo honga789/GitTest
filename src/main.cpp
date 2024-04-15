@@ -18,7 +18,7 @@ int main()
     fast_cin();
     freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    cout << "modified in main branch";
+    
     
     return 0;
 }
