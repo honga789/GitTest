@@ -18,7 +18,7 @@ int main()
     fast_cin();
     freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    cout << "third time Hello World!";
+    cout << "modified first time";
     
     return 0;
 }
