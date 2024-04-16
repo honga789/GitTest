@@ -13,19 +13,12 @@ typedef vector<ll> vll;
 #define endl '/n'
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0)
 
-bool tmp()
-{
-    return true;
-    return false;
-}
-
 int main()
 {
     fast_cin();
     freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
     cout << "modified second time";
-    cout << endl << "hehe";
     
     return 0;
 }
