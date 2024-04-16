@@ -16,9 +16,9 @@ typedef vector<ll> vll;
 int main()
 {
     fast_cin();
-    freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
-    freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    cout << "modified second time";
+    // freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
+    // freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
+    cout << "Hello World!";
     
     return 0;
 }
