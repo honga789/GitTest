@@ -13,6 +13,11 @@ typedef vector<ll> vll;
 #define endl '/n'
 #define fast_cin() ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0)
 
+void add_function()
+{
+    return;
+}
+
 int main()
 {
     fast_cin();
