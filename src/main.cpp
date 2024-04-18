@@ -18,7 +18,7 @@ int main()
     fast_cin();
     // freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     // freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    cout << "i love you and don't want to fight too";
+    cout << "Hello World!" << endl;
     
     return 0;
 }
