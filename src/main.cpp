@@ -19,7 +19,6 @@ int main()
     // freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     // freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
     cout << "Hello World!" << endl;
-    cout << "add noi dung bua ne";
     
     return 0;
 }
