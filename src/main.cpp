@@ -18,8 +18,7 @@ int main()
     fast_cin();
     // freopen("D:/Documents/Code/TestST/GitTest/resources/input.txt", "r", stdin);
     // freopen("D:/Documents/Code/TestST/GitTest/resources/output.txt", "w", stdout);
-    cout << "I say both Hello World! and Love You!";
-    cout << endl << "want to fight?";
+    cout << "i love you and don't want to fight too";
     
     return 0;
 }
